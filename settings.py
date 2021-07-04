@@ -1,0 +1,39 @@
+import pygame
+
+# Window size
+WIDTH, HEIGHT = 1550, 850
+FPS = 60
+# RGB Value of colors
+RED = (255, 0, 0)
+GREEN = (0, 255, 0)
+BLUE = (0, 0, 255)
+YELLOW = (255, 255, 51)
+WHITE = (255, 255, 255)
+BLACK = (0, 0, 0)
+PURPLE = (128, 0, 128)
+ORANGE = (255, 140, 0)
+GREY = (128, 128, 128)
+TURQUOISE = (64, 224, 208)
+CYAN = (0, 255, 255)
+CRIMSON = (220, 20, 60)
+TOMATO = (255, 99, 71)
+CORAL = (255, 127, 80)
+# Rows in grid
+ROWS = 34
+COLS = 50
+# Grid Start Coordinates
+GS_X = 250
+GS_Y = 0
+GW = WIDTH - GS_X
+GH = HEIGHT
+LINE_WIDTH = 2
+FONT = 'arial'
+# MAIN_MENU Buttons
+MAIN_BUTTON_WIDTH = 220
+MAIN_BUTTON_HEIGTH = 70
+MAIN_BUTTON_Y_POS = 600
+# GRID_MENU Buttons
+GRID_BUTTON_WIDTH = 200
+GRID_BUTTON_HEIGTH = 50
+GRID_SPACE = 20
+GRID_BUTTON_Y = 350
