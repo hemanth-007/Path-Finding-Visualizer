@@ -7,7 +7,7 @@ I've implemented the following algorithms:
 
 [**Dijkstra's Algorithm**](https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/)
 
-[**A star(A\*) Search Algorithm**](https://www.geeksforgeeks.org/a-search-algorithm/)
+[**A-star(A\*) Search Algorithm**](https://www.geeksforgeeks.org/a-search-algorithm/)
 
 [**Breadth First Search(BFS) Algorithm**](https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/)
 
